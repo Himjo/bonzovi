@@ -1,4 +1,4 @@
-echo ' <marquee> WECOME TO MY CLOUD WORLD </marquee> ';
+<marquee> WECOME TO HYBRID MULTI CLOUD WORLD - BY MR. VIMAL DAGA </marquee> 
 <br />
 <pre>
 <?php
@@ -9,8 +9,7 @@ echo'
 </html>
 ';
 echo'
-<center> <h2> Terraform </h2> </center>
-     <p> Use Infrastructure as Code to provision and manage any cloud, infrastructure or service </p>
+<center> <h2> Terraform - Use Infrastructure as Code to provision and manage any cloud, infrastructure or service </h2> </center>
 ';
 ?>
 </pre>
