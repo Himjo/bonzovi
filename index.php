@@ -4,7 +4,7 @@
 <?php
 echo' 
 <html>
-<center> <img src="https://github.com/Himjo/terra-image.git"  width="300" height="400">  </center>
+<center> <img src="vimal-sir.jpg"  width="300" height="400">  </center>
 
 </html>
 ';
