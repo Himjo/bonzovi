@@ -2,12 +2,6 @@
 <br />
 <pre>
 <?php
-echo' 
-<html>
-<center> <img src="https://raw.githubusercontent.com/Himjo/bonzovi/master/vimal-sir.jpg"  width="300" height="400">  </center>
-
-</html>
-';
 echo'
 <center> <h2> Terraform - Use Infrastructure as Code to provision and manage any cloud, infrastructure or service </h2> </center>
 ';
